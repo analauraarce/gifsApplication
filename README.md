@@ -1,4 +1,21 @@
-# GifsApp
+## Descripción 📑
+
+This is an application that uses GIPHY API to search for GIFs by typing a word (or words). Using this API, the application interfaces with GIPHY, a site with the largest GIF and Sticker library in the world.
+
+## The site is live at 
+https://analauraarce.github.io/gifsApplication/
+
+## Autor ✒️
+**Ana Laura Arce**
+
+* alauraarce8@gmail.com
+* [LinkedIn](https://www.linkedin.com/in/analauraarce/)
+
+## What have I learned with this project? 🙇🏻 
+
+To use API keys, HTTP requests, CSS animations, search history, LocalStorage and others that were used to build this application.
+
+# GifsApplication
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.1.
 
