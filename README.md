@@ -1,4 +1,4 @@
-## Descripción 📑
+## Description 📑
 
 This is an application that uses GIPHY API to search for GIFs by typing a word (or words). Using this API, the application interfaces with GIPHY, a site with the largest GIF and Sticker library in the world.
 
