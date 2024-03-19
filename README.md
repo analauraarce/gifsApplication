@@ -5,7 +5,7 @@ This is an application that uses GIPHY API to search for GIFs by typing a word (
 ## The site is live at 
 https://analauraarce.github.io/gifsApplication/
 
-## Autor ✒️
+## Author ✒️
 **Ana Laura Arce**
 
 * alauraarce8@gmail.com
